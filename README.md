@@ -22,14 +22,6 @@ VC 硬科技 简中地区，同时探索 AI 和代码构建投研与量化工具
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zaynzayn-au&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zaynzayn-au&show_icons=true&theme=default&hide_border=true&hide_title=true&rank_icon=github" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zaynzayn-au&show_icons=true&theme=default&hide_border=true&hide_title=true&rank_icon=github" />
-</picture>
-
 ---
 
 💼 **正在 sourcing 硬科技早期项目** — 欢迎创业者、FA 随时联系交流
