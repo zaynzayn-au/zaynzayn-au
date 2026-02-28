@@ -1,14 +1,16 @@
-### Hey, I'm Zayn 👋
+### Hey, I'm Theo 👋
 
-**Finance × Code** — Primary market professional building AI-powered tools for investment research and quantitative analysis.
+**硬科技 VC × Independent Developer**
+
+中国地区硬科技领域投资人，同时用 AI 和代码构建投研与量化工具。
 
 ---
 
 #### 🔭 What I'm Working On
 
-- AI-driven investment research & stock screening tools
-- Quantitative trading systems and strategy backtesting
-- Developer tools for the [Claude Code](https://docs.anthropic.com/en/docs/claude-code) ecosystem
+- AI-driven 投研工具 & 股票筛选系统
+- 量化交易系统 & 策略回测
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 生态开发者工具
 
 #### 🛠️ Tech Stack
 
@@ -30,6 +32,6 @@
 
 ---
 
-📫 **Get in touch** &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+💼 **正在 sourcing 硬科技早期项目** — 欢迎创业者、FA 随时联系交流
+
+📫 [![Email](https://img.shields.io/badge/huangyutao@zhtg.com.cn-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:huangyutao@zhtg.com.cn)
